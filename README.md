@@ -1,5 +1,5 @@
 # Adaptive Multi-Domain Learning
-This package implements the adaptive multi-doamin learning method proposed [Not all domains are equally complex: Adaptive Multi-Domain Learning](https://arxiv.org/pdf/2003.11504.pdf)
+This package implements the adaptive multi-doamin learning method proposed [Not all domains are equally complex: Adaptive Multi-Domain Learning](https://arxiv.org/pdf/2003.11504.pdf).
 
 
 # Installation
