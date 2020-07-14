@@ -20,6 +20,6 @@ Pretrained network on ImageNet (with reduced resolution):
 
 # Reference
 
-If you use one of the algorithms, please cite the corresponding articles:
+If you use this code, please cite this article:
 
 Senhaji, A., Raitoharju, J., Gabbouj, M., & Iosifidis, A. (2020). Not all domains are equally complex: Adaptive Multi-Domain Learning. arXiv preprint arXiv:2003.11504.
