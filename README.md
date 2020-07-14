@@ -1,4 +1,8 @@
 
+This package implements the adaptive multi-doamin learning method proposed [Not all domains are equally complex: Adaptive Multi-Domain Learning]
+(https://arxiv.org/pdf/2003.11504.pdf)
+Senhaji, A., Raitoharju, J., Gabbouj, M., & Iosifidis, A. (2020). Not all domains are equally complex: Adaptive Multi-Domain Learning. arXiv preprint arXiv:2003.11504.
+
 
 ##### Requirements
 - Pytorch (at least version 3.0)
