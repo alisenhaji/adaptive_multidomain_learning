@@ -3,9 +3,6 @@ This package implements the adaptive multi-doamin learning method proposed [Not 
 (https://arxiv.org/pdf/2003.11504.pdf)
 
 
-
----
-
 # Installation
 ## Requirements
 - Pytorch (at least version 3.0)
@@ -22,9 +19,7 @@ To train a dataset with parallel adapters put on a pretrained 'off the shelf' de
 Pretrained network on ImageNet (with reduced resolution):
 - a ResNet 26 inspired from the original ResNet from [He,16]: https://drive.google.com/open?id=1y7gz_9KfjY8O4Ue3yHE7SpwA90Ua1mbR
 
----
-
-#Reference
+# Reference
 
 If you use one of the algorithms, please cite the corresponding articles:
 
